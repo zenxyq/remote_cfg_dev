@@ -2,15 +2,6 @@
   "config": {
     "ios_required_version": "0.0.1",
     "android_required_version": "0.0.1",
-    "services_sticky_bar_enabled": false,
-    "amenity_filters": {
-      "has_balcony": true,
-      "has_terrace": true,
-      "has_ogrod": true,
-      "has_air_conditioning": true,
-      "no_commission": true,
-      "pets_allowed": true,
-      "has_separate_kitchen": true
-    }
+    
   }
 }
