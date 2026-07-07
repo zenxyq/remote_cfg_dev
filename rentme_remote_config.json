@@ -8,7 +8,7 @@
       "has_terrace": true,
       "has_ogrod": true,
       "has_air_conditioning": true,
-      "no_commission": true,
+      "no_commission": false,
       "pets_allowed": true,
       "has_separate_kitchen": true
     }
